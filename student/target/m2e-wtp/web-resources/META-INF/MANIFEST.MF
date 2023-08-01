@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: CINDREL
+Build-Jdk: 11.0.18
+Implementation-Title: student
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.student
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/student
+Created-By: Maven Integration for Eclipse
+
